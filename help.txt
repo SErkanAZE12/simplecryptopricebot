@@ -1,0 +1,5 @@
+This is a simple bot for getting the price of some cryptocurrencies in real-time.
+
+Use /start to get information on the list of cryptocurrencies.
+
+This bot displays prices in U.S. dollars only
