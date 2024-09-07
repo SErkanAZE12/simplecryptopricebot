@@ -1,7 +1,7 @@
 import requests
 import telebot
 
-Token = "7468078439:AAGwxHidWewMus8P-qxf8YlpCP1RW5gzg1M"
+Token = "YOUR_TOKEN"
 
 bot = telebot.TeleBot(Token)
 ids = "bitcoin,ethereum,binancecoin,solana,ripple,dogecoin"
